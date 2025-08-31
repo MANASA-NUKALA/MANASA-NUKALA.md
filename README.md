@@ -16,6 +16,14 @@ interests: Open Source • Problem Solving • Hackathons
 
 ---
 
+# 🏷️ Profile Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=MANASA-NUKALA&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MANASA-NUKALA?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MANASA-NUKALA?style=for-the-badge)
+
+---
+
 # 🚀 Tech I Use
 
 <p align="left">
@@ -52,9 +60,28 @@ interests: Open Source • Problem Solving • Hackathons
 
 ---
 
+# 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MANASA-NUKALA&theme=radical)](https://git.io/streak-stats)
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MANASA-NUKALA&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 # 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/MANASA-NUKALA/MANASA-NUKALA/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# ✨ Fun Section
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
