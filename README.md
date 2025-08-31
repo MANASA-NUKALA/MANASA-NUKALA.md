@@ -74,7 +74,8 @@ interests: Open Source • Problem Solving • Hackathons
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/MANASA-NUKALA/MANASA-NUKALA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MANASA-NUKALA/MANASA-NUKALA/output/github-contribution-grid-snake.svg)
+
 
 ---
 
